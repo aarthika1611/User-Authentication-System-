@@ -17,8 +17,10 @@ session management is implemented using express-session.
 - bcrypt.js, express-session
 - HTML, CSS
 - VS Code
-## Setup Instructions
-### 1. Clone the Repository
+
+
+##Setup Instructions
+ 1. Clone the Repository
 ```bash.
 git clone https://github.com/<your-username>/user-auth-system.git
 cd user-auth-system
@@ -33,7 +35,9 @@ Or, for automatic reload:
 npx nodemon server.js
 5. Open in Browser
 Visit http://localhost:3000 to the application
-##Project Report
+
+
+Project Report
 Content:
 1. Project Title:
 User Authentication System using Node.js and MongoDB
